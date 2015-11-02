@@ -6,6 +6,9 @@ Build out code in the `lib` directory that simulates a car race!
 
 ###Steps
 
+* Clone this repo onto your local machine
+* `cd car-racing-lab`
+* If you haven't already, run `gem install rspec`
 * run `rspec` in the main directory to see your failing tests
 * READ THE ERRORS and methodically pass each one by one
 * Once you get the errors into passing tests, see if you can refactor (remember: "red, green, refactor")
