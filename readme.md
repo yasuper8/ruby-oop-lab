@@ -7,7 +7,7 @@
 1. Fork this repo, and clone it into your `develop` folder on your local machine.
 2. If you haven't already, run `gem install rspec` in the Terminal. This installs the `rspec` gem, which we'll use for testing our Ruby code.
 3. In the Terminal, from the root directory of this project, run `rspec` to run your test suite. You should see all the tests failing.
-4. READ THE ERRORS and methodically pass each test one by one. **Hint:** Remember to use `p` statements to examine your objects.
+4. **Read the errors** and methodically pass each test one by one. **Hint:** Remember to use `p` statements to examine your objects.
 5. Once you fix the errors and have passing tests, see if you can refactor any of your code to make it more DRY. Run your tests again to make sure they still pass.
 
 **Once the tests are passing you should have:**
