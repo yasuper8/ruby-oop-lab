@@ -1,5 +1,7 @@
-require_relative 'car'
+require "car"
 
 class Race
-  #write Race class code here
+
+  # write Race class code here
+
 end
