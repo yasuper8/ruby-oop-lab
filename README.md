@@ -19,12 +19,15 @@
 
 **In your Terminal, you should be able to run:**
 
-```ruby
+```zsh
+➜  irb
+> load './lib/race.rb'
 race = Race.new
+=> #<Race:0x007fa294bd9000 ...>
 race.winner
-# => <Car ...>
+=> #<Car:0x007fa294bd8fb0 ...>
 race.loser
-# => <Car ...>
+=> #<Car:0x007fa294bd8fd8 ...>
 ```
 
 ## Submission
