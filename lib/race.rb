@@ -1,4 +1,4 @@
-require "car"
+require_relative "car"
 
 class Race
 
